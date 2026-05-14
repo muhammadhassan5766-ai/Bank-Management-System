@@ -8,7 +8,7 @@ using namespace std;
 // 3. LOAN CLASS
 // this class store loan information for customer
 // bank give loan so i need to save who take loan and how much
-// rate is interest rate, teacher told us to include it
+
 class Loan {
 public:
     string customerName; // name of person who take loan
